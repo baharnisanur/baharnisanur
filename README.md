@@ -2,9 +2,13 @@
 <h3 align="center">Jr. Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
-- 🌱 I’m currently learning **Node.js , MongoDB , Postman , MySQL ,JavaScript**
+💫 Throughout my academic journey, my primary interest has been in software systems, particularly in the field of Web Development. I have focused on courses related to web technologies, and my passion lies in creating innovative solutions in the dynamic world of software development.
 
-- 📫 How to reach me **nnbaharr@gmail.com**
+* 🌍  I'm based in Trabzon
+* ✉️  You can contact me at [nnbaharr@gmail.com](mailto:nnbaharr@gmail.com)
+* 🧠  I'm learning NestJS, JavaScript, MongoDB, NodeJS, ExpressJS, SQL, NoSQL, REST, Postman
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
