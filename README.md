@@ -6,7 +6,7 @@
 
 * 🌍  I'm based in Trabzon
 * ✉️  You can contact me at [nnbaharr@gmail.com](mailto:nnbaharr@gmail.com)
-* 🧠  I'm learning NestJS, JavaScript, MongoDB, NodeJS, ExpressJS, SQL, NoSQL, REST, Postman
+* 🧠  I'm learning NestJS, TypeScript, MongoDB, ExpressJS , REST, Postman
 
 
 
